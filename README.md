@@ -12,7 +12,7 @@ they can be specifically targeted via call. We are given the
 historical marketing data of the insurance company and are
 required to build a ML model that will predict if a client will
 subscribe to the insurance.
-Data
+Data:
 The historical sales data is available as a compressed file here.
 Features:
 ● age (numeric)
