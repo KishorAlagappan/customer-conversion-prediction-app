@@ -12,6 +12,8 @@ they can be specifically targeted via call. We are given the
 historical marketing data of the insurance company and are
 required to build a ML model that will predict if a client will
 subscribe to the insurance.
+
+
 Data:
 The historical sales data is available as a compressed file here.
 Features:
@@ -28,5 +30,8 @@ campaign and for this client
 ● prev_outcome: outcome of the previous marketing
 campaign (categorical:
 "unknown","other","failure","success")
+
+
+
 Output variable (desired target):
 ● y - has the client subscribed to the insurance?
