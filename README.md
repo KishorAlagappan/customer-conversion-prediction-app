@@ -21,8 +21,11 @@ The historical sales data is available as a compressed file here.
 Features:
 
 ● age (numeric)
+
 ● job : type of job
+
 ● marital : marital status
+
 ● educational_qual : education status
 ● call_type : contact communication type
 ● day: last contact day of the month (numeric)
