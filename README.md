@@ -27,12 +27,18 @@ Features:
 ● marital : marital status
 
 ● educational_qual : education status
+
 ● call_type : contact communication type
+
 ● day: last contact day of the month (numeric)
+
 ● mon: last contact month of year
+
 ● dur: last contact duration, in seconds (numeric)
+
 ● num_calls: number of contacts performed during this
 campaign and for this client
+
 ● prev_outcome: outcome of the previous marketing
 campaign (categorical:
 "unknown","other","failure","success")
