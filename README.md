@@ -20,6 +20,7 @@ Data:
 The historical sales data is available as a compressed file here.
 Features:
 
+
 ● age (numeric)
 
 ● job : type of job
@@ -42,6 +43,7 @@ campaign and for this client
 ● prev_outcome: outcome of the previous marketing
 campaign (categorical:
 "unknown","other","failure","success")
+
 
 
 
