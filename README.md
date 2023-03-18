@@ -21,6 +21,8 @@ The historical sales data is available as a compressed file here.
 Features:
 
 
+
+
 ● age (numeric)
 
 ● job : type of job
