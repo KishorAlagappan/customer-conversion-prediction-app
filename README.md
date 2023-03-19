@@ -16,6 +16,8 @@ required to build a ML model that will predict if a client will
 subscribe to the insurance.
 
 
+
+
 Data:
 The historical sales data is available as a compressed file here.
 Features:
