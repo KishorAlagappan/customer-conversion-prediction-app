@@ -2,7 +2,6 @@
 
 Problem Statement:
 
-
 You are working for a new-age insurance company and employ
 mutiple outreach plans to sell term insurance to your
 customers. Telephonic marketing campaigns still remain one of
