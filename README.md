@@ -1,13 +1,13 @@
 # `Customer_Conversion_Prediction`
-**Project Description:** Client Conversion Prediction
+**Project Description:** Customer Conversion Prediction
 
-I undertook a project focused on client conversion prediction. The objective of this project was to develop a predictive model that could accurately classify potential customers based on various features and predict their likelihood of conversion. This project allowed me to apply my skills in data analysis, data visualization, machine learning, and programming to solve real-world problems.
+I undertook a project focused on customer conversion prediction. The objective of this project was to develop a predictive model that could accurately classify potential customers based on various features and predict their likelihood of conversion. This project allowed me to apply my skills in data analysis, data visualization, machine learning, and programming to solve real-world problems.
 
 **`Key-Points`**
 
 1. I gained a basic understanding of the data to familiarize myself with its structure, variables, and relationships.
 
-2. I performed data cleaning to make the raw data more usable for analysis. I identified and handled missing values, duplicates and other data inconsistencies during this process.
+2. I performed data cleaning to make the raw data more usable for analysis. I identified and handled missing values, duplicates, and other data inconsistencies during this process.
 
 3. I conducted exploratory data analysis (EDA) to gain insights from the data. This helped me identify patterns, relationships, and potential variables for analysis.
 
@@ -25,6 +25,6 @@ I undertook a project focused on client conversion prediction. The objective of 
 
 ## `Results`
 
-Through this project, I successfully developed a client conversion prediction model with high accuracy. The XGBoost model achieved an AUROC score of 96.5%, indicating its effectiveness in classifying potential customers. The Random Forest model also showed promise with an AUROC score of around 96%. These models can accurately target potential customers and optimize marketing costs, providing valuable insights to improve marketing campaigns.
+Through this project, I successfully developed a customer conversion prediction model with high accuracy. The XGBoost model achieved an AUROC score of 96.5%, indicating its effectiveness in classifying potential customers. The Random Forest model also showed promise with an AUROC score of around 96%. These models can accurately target potential customers and optimize marketing costs, providing valuable insights to improve marketing campaigns.
 
 This project enhanced my skills and ability to handle real-world datasets, build predictive models, and communicate the results effectively.
