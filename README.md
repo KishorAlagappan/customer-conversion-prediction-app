@@ -1,4 +1,4 @@
-# Customer Conversion Prediction
+# Customer Conversion Prediction App
 
 ## Table of Contents
 - [Project Description](#project-description)
