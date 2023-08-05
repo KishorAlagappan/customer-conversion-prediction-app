@@ -7,6 +7,7 @@
 - [Results](#results)
 - [Contributions](#contributions)
 
+
 ## Project Description
 Welcome to the Customer Conversion Prediction project! This initiative is centered around developing a robust predictive model capable of classifying potential customers based on diverse features and forecasting their likelihood of conversion. Through the application of data analysis, visualization, machine learning, and programming skills, this project tackles real-world challenges in customer conversion prediction, revolutionizing marketing strategies.
 
